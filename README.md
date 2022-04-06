@@ -7,3 +7,7 @@ Columns and charts are used to compare actual gross and net profit to budget.
 
 # Below is my Tableau portfolio
 https://public.tableau.com/app/profile/gingercapo
+
+
+# Guidelines I Always follow
+<img width="1092" alt="image" src="https://user-images.githubusercontent.com/56441231/161882106-f6e52103-bb4c-4336-9083-a6fb00d3a541.png">
